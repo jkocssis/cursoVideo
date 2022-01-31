@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    
+}
+#box1{
+    background-color: green;
+}
+#box2{
+    background-color: red;
+}
